@@ -1,7 +1,7 @@
 <script context="module" lang="ts">
-	import client from '../client'
+  import client from "../client"
 
-	client.init()
+  client.init()
 </script>
 
 <script lang="ts">
